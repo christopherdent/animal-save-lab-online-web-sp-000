@@ -11,9 +11,9 @@ html {
 /* Write your solution here */
 
 
-@media only screen and (max-width: 1360px) {
+@media only screen and (max-width: 11360px) {
     #ostrich {
-        top: - ;
+        top: -50px;
     }
 }
 
