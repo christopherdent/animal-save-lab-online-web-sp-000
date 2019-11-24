@@ -13,8 +13,7 @@ html {
 
 @media only screen and (max-width: 11500px) {
   img {
-    background: bla ck;
-    position: bottom;
+    position: top;
   }
 }
 
